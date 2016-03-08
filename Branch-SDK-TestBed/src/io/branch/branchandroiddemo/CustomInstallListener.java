@@ -23,7 +23,7 @@ public class CustomInstallListener extends BroadcastReceiver{
 //        Below example shows how to do it for Google Analytics
 
 //        InstallReferrerReceiver receiver = new InstallReferrerReceiver();
-//        receiver.onReceive(Context context, Intent intent);
+//        receiver.onReceive(context, intent);
 
     }
 }
